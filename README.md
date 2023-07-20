@@ -164,7 +164,7 @@ important caveat about _how_ it functions that we need to explore: it sets state
 
 In order to understand why this is important, let's look at an example of a
 state setter function being used in a component. The following gif is of this
-component (pay close attention to the `console.log()`s:
+component (pay close attention to the `console.log()`s:)
 
 ```jsx
 function Counter() {
